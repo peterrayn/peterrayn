@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jun Hu 👋
 
-<!--
-**peterrayn/peterrayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A researcher.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multimodal Large Language Models
+- Video Understanding
+- Streaming Video Understanding
+
+## Education
+
+- Graduate Student — [suat]
+
+## Contact
+
+- Email: hjungl@example.com
